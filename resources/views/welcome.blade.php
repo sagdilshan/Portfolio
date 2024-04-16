@@ -171,7 +171,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="resume-wrap ftco-animate">
-						<span class="date">2023-2024</span>
+						<span class="date">2023-Present</span>
 						<h2>Software Engineering Degree</h2>
 						<span class="position">Kingston University</span>
 						<p class="mt-4">I am currently pursuing my BSc (Hons) in Computer Science Software Engineering at Kingston University,
@@ -386,7 +386,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
 						style="background-image: url(../assets/images/project-4.jpg);">
 						<div class="overlay"></div>
@@ -396,7 +396,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-6">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
 						style="background-image: url(../assets/images/project-5.jpg);">
 						<div class="overlay"></div>
@@ -407,7 +407,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-8">
+				<div class="col-md-6">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
 						style="background-image: url(../assets/images/project-1.jpg);">
 						<div class="overlay"></div>
@@ -426,7 +426,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="row">
 						<div class="col-md-12">
 							<div class="project img ftco-animate d-flex justify-content-center align-items-center"
@@ -482,14 +482,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-					<div class="block-18">
-						<div class="text">
-							<strong class="number" data-number="100">0</strong>
-							<span>Cups of coffee</span>
-						</div>
-					</div>
-				</div>
+
 			</div>
 		</div>
 	</section>
