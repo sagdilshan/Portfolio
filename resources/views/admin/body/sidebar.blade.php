@@ -82,7 +82,7 @@
                             </a>
                         </li>
 
-                        
+
 
 
 
@@ -97,7 +97,7 @@
 
                 <li
                     class="nav-item {{ Route::is('all.admin') || Route::is('all.seller') || Route::is('all.customer') || Route::is('add.users') || Route::is('edit.admin') || Route::is('edit.seller') || Route::is('edit.customer') || Route::is('edit.users') ? 'menu-open' : '' }}">
-                    <a href="#"
+                    <a href=""
                         class="nav-link {{ Route::is('all.admin') ? 'active' : '' }} {{ Route::is('all.seller') ? 'active' : '' }} {{ Route::is('all.customer') ? 'active' : '' }} {{ Route::is('add.users') ? 'active' : '' }} {{ Route::is('edit.admin') ? 'active' : '' }} {{ Route::is('edit.seller') ? 'active' : '' }} {{ Route::is('edit.customer') ? 'active' : '' }} {{ Route::is('edit.users') ? 'active' : '' }}"
                         style="{{ Route::is('all.admin') || Route::is('all.seller') || Route::is('all.customer') || Route::is('add.users') ? 'background-color: #3c8dbc;' : '' }}">
                         <i class="nav-icon far fa-address-card"></i>
